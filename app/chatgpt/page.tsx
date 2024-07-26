@@ -1,10 +1,10 @@
+import Chatgpt from "@/components/Chatgpt";
 import React from "react";
-import GetApp from "../../components/GetApp";
 
 export default function page() {
   return (
     <div>
-      <GetApp />
+      <Chatgpt />
     </div>
   );
 }

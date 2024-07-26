@@ -3,7 +3,6 @@ import Evaluation from "@/components/Evaluation";
 export default function page() {
   return (
     <div>
-      page
       <Evaluation />
     </div>
   );
